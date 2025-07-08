@@ -1,7 +1,7 @@
 # 💻 Hello, world! I'm Fábio Júnior 👋
 
 - 🎓 I'm currently pursuing a degree in **Information Systems** at **UFOP - Federal University of Ouro Preto.**
-- 📚 I'm currently learning **HTML**, **CSS**, and **JavaScript**.  
+- 📚 I'm currently learning **HTML**, **C**, **CSS**, and **JavaScript**.  
 - 👨‍💻 I'm passionate about technology and eager to start my career in **Web Development**.  
 - 🌱 Always looking to learn new things and improve my skills.
 - ✉️ [fabiojramos.contato@gmail.com](mailto:fabiojramos.contato@gmail.com)
@@ -11,7 +11,7 @@
 ## 🛠️ Skills I'm Learning
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,c,github,vscode" />
   </a>
 </p>
 
